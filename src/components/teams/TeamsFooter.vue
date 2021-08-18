@@ -1,21 +1,21 @@
 <template>
- <footer>
+  <footer>
     <h2>Teams Footer</h2>
- </footer>
+  </footer>
 </template>
 
 <style scoped>
 footer {
-    position:absolute;
-   bottom:0;
+  position: absolute;
+  bottom: 0;
   width: 100%;
   height: 5rem;
   background-color: #11005c;
 }
 
 h2 {
-    color: white;
-    text-align: center;
+  color: white;
+  text-align: center;
 }
 a {
   text-decoration: none;
@@ -33,5 +33,4 @@ a.active {
   border-color: #f1a80a;
   background-color: #1a037e;
 }
-
 </style>
